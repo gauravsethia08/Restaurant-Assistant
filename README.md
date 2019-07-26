@@ -6,7 +6,7 @@ Firebird V kit is used to make this robot.
 
 # Environment
 The code is written in Arduino IDE. <br>
-Pin number of Arduino Mega is matched with Pins on firebird V using the datasheet.<br>
+Pin number of Arduino Mega is matched with pins on firebird V using the datasheet.<br>
 http://www.nex-robotics.com/resources/using-arduino-to-program-firebird-v-2560-platform.html
 
 # Step to Burn the code to Hardware
