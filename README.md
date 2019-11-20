@@ -5,7 +5,8 @@ This robot is used to take orders from different tables in  a restaurant. The ta
 Firebird V kit is used to make this robot.
 
 # Environment
-The code is written in Arduino IDE. <br>
+The code is written in Arduino IDE and Embedded C. <br>
+For Embedded C code, the C source file <br>
 Pin number of Arduino Mega is matched with pins on firebird V using the datasheet.<br>
 <br><br>
 For more information visit
@@ -15,7 +16,5 @@ http://www.nex-robotics.com/resources/using-arduino-to-program-firebird-v-2560-p
 
 # Co-Authors
 Harish Kumar S Guragol<br>
-Kartik<br>
-Drupad<br>
-Diksha
+
 
