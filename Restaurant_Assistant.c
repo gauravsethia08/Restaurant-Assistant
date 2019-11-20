@@ -1,10 +1,8 @@
 /*
  *
  *
- * Team ID			- #951
- * Author List		- Shruthi J, Rashmi N, Nithyapoornima Moorthy, Viswakiran
- * File Name		- TBT.c
- * Theme			- RESTAURANT ASSISTANT: ORDER TAKING ROBOT
+ * Author List		- Gaurav Sethia
+ * Theme		- RESTAURANT ASSISTANT: ORDER TAKING ROBOT
  * Functions		- adc_pin_config, motion_pin_config, port_init, timer5_init, adc_init, ADC_Conversion, Sharp_GP2D12_estimation,
 						init_devices, velocity, motion_set, forward, right, left, hard_right, hard_left, take_order, place_order,
 						show_order, led_config, red_led_on, blue_led_on, green_led_on, all_led_off, buzzer_pin_config, buzzer_on,
